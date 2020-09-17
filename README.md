@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-1. 💬 I am a Software Engineer(DevOps/Site Reliablity)
+1. 💬 I am a Software Engineer(DevOps/Site Reliability)
 2. 📫 You can read more about me by visiting my personal website
      
       **if love_for_linux is True: open [this](https://resume.yogeshsharma.me) else open [this](https://yogeshsharma.me)**
