@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 2. 📫 You can read more about me by visiting my personal website
      
       **if love_for_linux: open [this](https://resume.yogeshsharma.me) else open [this](https://yogeshsharma.me)**
+
+3. [All of my starred repositories](https://github.com/yks0000/starred-repo-toc/blob/master/README.md)
