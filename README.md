@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-1. I am a Software Engineer specialized in [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering) and DevOps.
+1. I am a Software Engineer specialized in [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering).
 2. You can read more about me on my [LinkedIn Profile](https://linkedin.yogeshsharma.me) or on my website [yogeshsharma.me](https://yogeshsharma.me)
+
+
+[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yks0000)](https://github.com/yks0000/yks0000/blob/master/README.md)
