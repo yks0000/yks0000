@@ -1,4 +1,4 @@
-### Hi there 👋, Glad to see you here.
+### Hi there 👋,
 
 <!--
 **yks0000/yks0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
