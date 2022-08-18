@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 2. You can read more about me on my [LinkedIn Profile](https://linkedin.yogeshsharma.me) or on my website [yogeshsharma.me](https://yogeshsharma.me)
 
 
-[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yks0000)](https://github.com/yks0000/yks0000/blob/master/README.md)
+[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yks0000&theme=noctis_minimus)](https://github.com/yks0000/yks0000/blob/master/README.md)
