@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-1. I am a Software Engineer specialized in [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering).
+1. I am a Software Engineer specialized in [Platform Engineering](https://en.wikipedia.org/wiki/Platform_engineering).
 2. You can read more about me on my [LinkedIn Profile](https://linkedin.yogeshsharma.me) or on my website [yogeshsharma.me](https://yogeshsharma.me)
 
 
